@@ -1,0 +1,37 @@
+. h1,
+p {
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  color: #7dd5c9;
+}
+
+h1 {
+  margin: 0 0 10px 0;
+}
+
+p {
+  font-style: italic;
+  margin: 0 0 20px 0;
+  font-size: 19px;
+}
+
+img {
+  width: 100%;
+}
+
+.mockup {
+  position: relative;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.artwork {
+  position: absolute;
+  width: 76%;
+  height: 75%;
+  top: 9%;
+  left: 11.75%;
+  overflow: scroll;
+}
