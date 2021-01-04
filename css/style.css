@@ -867,3 +867,7 @@ p {
     font-size: 24px;
   }
 }
+
+#about {
+  padding: 100px;
+}
